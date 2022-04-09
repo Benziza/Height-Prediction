@@ -20,7 +20,7 @@ Effectuez les étapes suivantes :
 ## Technologies
 
 les technologies utilise
-| Library Name | Version |
+| Technologie Name | Version |
 | :---------------- | :-----: |
 | python | 3.10.2 |
 | flask | 1.1.2 |
